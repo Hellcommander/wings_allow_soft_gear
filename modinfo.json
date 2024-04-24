@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "wings_allow_soft_gear",
+    "name": "wings allow soft gear",
+    "authors": [ "Arendeth" ],
+    "maintainers": [ "Arendeth" ],
+    "description": "Changes it so base game wings (by defualt they restrict gear with saying so in description) do allow wearing non-rigid (soft) armor/items in the slots they restrict.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]
