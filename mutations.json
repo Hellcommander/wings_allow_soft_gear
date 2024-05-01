@@ -1,24 +1,29 @@
 [
-
   {
     "type": "mutation",
     "id": "WINGS_BIRD",
-	"copy-from": "WINGS_BIRD",
-	"description": "You have a pair of large, feathered wings.  Your body is too heavy to be able to fly, but you can use them to slow your descent during a fall, and will not take falling damage under any circumstances. Prevents wearing gear in arm and hand slots that isn't soft.",
-	"allow_soft_gear": true
+    "copy-from": "WINGS_BIRD",
+    "description": "You have a pair of large, feathered wings.  Your body is too heavy to be able to fly, but you can use them to slow your descent during a fall, and will not take falling damage under any circumstances. Prevents wearing gear in arm and hand slots that isn't soft.",
+    "allow_soft_gear": true
   },
-    {
+  {
     "type": "mutation",
     "id": "WINGS_INSECT",
-	"copy-from": "WINGS_INSECT",
+    "copy-from": "WINGS_INSECT",
     "description": "A large pair of translucent wings grow from your back.  They are too small to lift you, but if you're not weighed down, they can help a bit if you fall.  You can flutter them quickly to improve your move speed, but this is noisy and tires you out. Prevents wearing non-fabric items in the torso slot.",
-	"allow_soft_gear": true
+    "allow_soft_gear": true
   },
-      {
+  {
+    "type": "mutation",
+    "id": "WINGS_INSECT_active",
+    "copy-from": "WINGS_INSECT_active",
+    "allow_soft_gear": true
+  },
+  {
     "type": "mutation",
     "id": "WINGS_BAT",
-	"copy-from": "WINGS_BAT",
-	"description": "Most of your fingers have grown to tremendous length, becoming a broad pair of leathery wings.  This allows you to arrest a fall or glide from a ledge if you aren't too weighed down, but naturally impedes your fine motor skills.  They even keep you warm when you sleep. Prevents wearing non fabric armor in the arm and hand slots.",
-	"allow_soft_gear": true
+    "copy-from": "WINGS_BAT",
+    "description": "Most of your fingers have grown to tremendous length, becoming a broad pair of leathery wings.  This allows you to arrest a fall or glide from a ledge if you aren't too weighed down, but naturally impedes your fine motor skills.  They even keep you warm when you sleep. Prevents wearing non fabric armor in the arm and hand slots.",
+    "allow_soft_gear": true
   }
 ]
